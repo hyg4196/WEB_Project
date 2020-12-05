@@ -1,6 +1,6 @@
 # WEB_Project
 
-## 웹과 관련된 프로젝트 , Web-related projects , ウェブに関するプロジェクト
+### 웹과 관련된 프로젝트 , Web-related projects , ウェブに関するプロジェクト
 
 
 #### 주요기능
