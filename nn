@@ -1,0 +1,32 @@
+fun main() {
+    var k:Int = 0
+    while(k==0){
+        println("== 프로그램 시작 ==")
+        print("숫자 개수 : ")
+        k = readLine()!!.trim().toInt()
+
+        if(k==-99){
+            break
+        }else{
+            val add = Add(k)
+            add.add()
+            k=0
+        }
+        println("== 프로그램 끝 ==")
+        println()
+    }
+
+}
+
+class Add( var a:Int){
+
+    fun add(){
+        println("${a}개의 숫자를 입력 받습니다.")
+        var sum:Int = 0
+        for(i in 1 .. a) {
+            print("${i}번째 숫자 : ");
+            sum = sum +readLine()!!.trim().toInt()
+        }
+        println("입력하신 숫자의 총 합은 ${sum} 입니다.")
+    }
+}
