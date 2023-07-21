@@ -1,49 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T05:04:05.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="Do2czIOFhjK4UBdzaByU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T05:28:40.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S5ZZ6Wsg8-2Y5v_eTL2b" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="fX0xGhg04V1UyRjbNL5q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="인증 수단 등록" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="274" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fX0xGhg04V1UyRjbNL5q-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-0" value="&lt;h1&gt;Data&lt;/h1&gt;&lt;ol style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; list-style-type: none; padding-left: 12px; color: rgb(32, 33, 36); font-family: consolas, &amp;quot;lucida console&amp;quot;, &amp;quot;courier new&amp;quot;, monospace;&quot; role=&quot;group&quot; class=&quot;children expanded&quot;&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; aria-expanded=&quot;true&quot; class=&quot;parent expanded&quot; data-object-property-name-for-test=&quot;authParam&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;authParam&quot; class=&quot;name own-property&quot;&gt;[]&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; aria-expanded=&quot;true&quot; class=&quot;parent expanded&quot; data-object-property-name-for-test=&quot;authParam&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;authParam&quot; class=&quot;name own-property&quot;&gt;authParam&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; overflow: hidden; line-height: 16px; display: flex;&quot; class=&quot;name-and-value&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;ol style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; list-style-type: none; padding-left: 12px;&quot; role=&quot;group&quot; class=&quot;children expanded&quot;&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; data-object-property-name-for-test=&quot;authType&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; overflow: hidden; line-height: 16px; display: flex;&quot; class=&quot;name-and-value&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;authParam.authType&quot; class=&quot;name own-property&quot;&gt;authType&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; flex-shrink: 0;&quot; class=&quot;separator&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-text-disabled);&quot; title=&quot;undefined&quot; class=&quot;object-value-undefined value&quot;&gt;undefined&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; data-object-property-name-for-test=&quot;displayName&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; overflow: hidden; line-height: 16px; display: flex;&quot; class=&quot;name-and-value&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;authParam.displayName&quot; class=&quot;name own-property&quot;&gt;displayName&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; flex-shrink: 0;&quot; class=&quot;separator&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; unicode-bidi: -webkit-isolate; color: var(--color-syntax-1);&quot; title=&quot;홍길동&quot; class=&quot;object-value-string value&quot;&gt;&quot;홍길동&quot;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; data-object-property-name-for-test=&quot;userId&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; overflow: hidden; line-height: 16px; display: flex;&quot; class=&quot;name-and-value&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;authParam.userId&quot; class=&quot;name own-property&quot;&gt;userId&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; flex-shrink: 0;&quot; class=&quot;separator&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; unicode-bidi: -webkit-isolate; color: var(--color-syntax-1);&quot; title=&quot;user01&quot; class=&quot;object-value-string value&quot;&gt;&quot;user01&quot;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; data-object-property-name-for-test=&quot;clientId&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; overflow: hidden; line-height: 16px; display: flex;&quot; class=&quot;name-and-value&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;clientId&quot; class=&quot;name own-property&quot;&gt;clientId&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; flex-shrink: 0;&quot; class=&quot;separator&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; unicode-bidi: -webkit-isolate; color: var(--color-syntax-1);&quot; title=&quot;be47b928-47e2-4d74-a17f-38b10d9949ee&quot; class=&quot;object-value-string value&quot;&gt;&quot;be47b928-47e2-4d74-a17f-38b10d9949ee&quot;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; min-width: 0px; min-height: 16px; outline-width: 0px; text-overflow: ellipsis; position: relative; display: flex; align-items: center; user-select: text;&quot; aria-selected=&quot;true&quot; class=&quot;selected&quot; tabindex=&quot;-1&quot; data-object-property-name-for-test=&quot;type&quot; role=&quot;treeitem&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; overflow: hidden; line-height: 16px; display: flex;&quot; class=&quot;name-and-value&quot;&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; color: var(--color-syntax-2); flex-shrink: 0; font-weight: bold;&quot; title=&quot;type&quot; class=&quot;name own-property&quot;&gt;type&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; flex-shrink: 0;&quot; class=&quot;separator&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; min-width: 0px; min-height: 0px; unicode-bidi: -webkit-isolate; color: var(--color-syntax-1);&quot; title=&quot;inihub&quot; class=&quot;object-value-string value&quot;&gt;&quot;inihub&quot;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-21" y="30" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fX0xGhg04V1UyRjbNL5q-2" target="fX0xGhg04V1UyRjbNL5q-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-2" value="inihub.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="274" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fX0xGhg04V1UyRjbNL5q-7" target="fX0xGhg04V1UyRjbNL5q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-7" value="inihub_iframe.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="274" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-10" value="inihub_sdk.1.0.xx.js" style="swimlane;startSize=20;horizontal=1;containerType=tree;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-21" y="390" width="710" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="fX0xGhg04V1UyRjbNL5q-10" source="fX0xGhg04V1UyRjbNL5q-12" target="fX0xGhg04V1UyRjbNL5q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-12" value="Parent" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="fX0xGhg04V1UyRjbNL5q-10">
+          <mxGeometry x="140" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fX0xGhg04V1UyRjbNL5q-13" value="Child" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="fX0xGhg04V1UyRjbNL5q-10">
+          <mxGeometry x="140" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="fX0xGhg04V1UyRjbNL5q-10" vertex="1">
+          <mxGeometry x="340" y="90" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fX0xGhg04V1UyRjbNL5q-10" vertex="1">
+          <mxGeometry x="490" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="fX0xGhg04V1UyRjbNL5q-10" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="fX0xGhg04V1UyRjbNL5q-10" vertex="1">
+          <mxGeometry x="340" y="200" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="fX0xGhg04V1UyRjbNL5q-10" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fX0xGhg04V1UyRjbNL5q-10" vertex="1">
+          <mxGeometry x="330" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="fX0xGhg04V1UyRjbNL5q-10" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fX0xGhg04V1UyRjbNL5q-10" vertex="1">
+          <mxGeometry x="490" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="fX0xGhg04V1UyRjbNL5q-10" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
